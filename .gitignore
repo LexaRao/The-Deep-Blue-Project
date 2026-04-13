@@ -401,3 +401,4 @@ FodyWeavers.xsd
 *.sln.iml
 Library/PackageCache/com.unity.burst@07790c2d06d9/.Runtime/libburst-llvm-19.so
 Library/PackageCache/com.unity.burst@07790c2d06d9/.Runtime/libburst-llvm-19.dylib
+Unity-Package/Unity-Project-Export.unitypackage
